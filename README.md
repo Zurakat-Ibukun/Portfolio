@@ -37,7 +37,7 @@ disease using NHANES data.
 
 **Technologies:** Python, Pandas, Scikit-learn, XGBoost, Boruta, Streamlit
 
-[View Live Project](https://ckd-prediction-system-nhanes-zbwc9dcesydokbyscpvqn9.streamlit.app/)
+[View Live Project](https://ckd-prediction-system-zurakat-ibukun.streamlit.app/)
 
 ---
 
